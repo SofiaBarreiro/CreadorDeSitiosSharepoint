@@ -1,0 +1,9 @@
+c:\users\sbarreiro\documents\visual studio 2013\Projects\CreateSubSite2\nuevoWebSite\nuevoWebSite\bin\Debug\nuevoWebSite.exe.config
+c:\users\sbarreiro\documents\visual studio 2013\Projects\CreateSubSite2\nuevoWebSite\nuevoWebSite\bin\Debug\nuevoWebSite.exe
+c:\users\sbarreiro\documents\visual studio 2013\Projects\CreateSubSite2\nuevoWebSite\nuevoWebSite\bin\Debug\nuevoWebSite.pdb
+c:\users\sbarreiro\documents\visual studio 2013\Projects\CreateSubSite2\nuevoWebSite\nuevoWebSite\obj\Debug\nuevoWebSite.csprojResolveAssemblyReference.cache
+c:\users\sbarreiro\documents\visual studio 2013\Projects\CreateSubSite2\nuevoWebSite\nuevoWebSite\obj\Debug\nuevoWebSite.Form1.resources
+c:\users\sbarreiro\documents\visual studio 2013\Projects\CreateSubSite2\nuevoWebSite\nuevoWebSite\obj\Debug\nuevoWebSite.Properties.Resources.resources
+c:\users\sbarreiro\documents\visual studio 2013\Projects\CreateSubSite2\nuevoWebSite\nuevoWebSite\obj\Debug\nuevoWebSite.csproj.GenerateResource.Cache
+c:\users\sbarreiro\documents\visual studio 2013\Projects\CreateSubSite2\nuevoWebSite\nuevoWebSite\obj\Debug\nuevoWebSite.exe
+c:\users\sbarreiro\documents\visual studio 2013\Projects\CreateSubSite2\nuevoWebSite\nuevoWebSite\obj\Debug\nuevoWebSite.pdb
